@@ -50,19 +50,19 @@ a.active{
     margin: 8px 0 16px 0;
     font-weight: 300;
 }
-.about{
+#about{
     width: 40%;
     min-width: 600px;
     margin: 100px 0 100px 200px;
 }
-.about h3{
+#about h3{
     font-size: 40px;
     font-weight: 300;
 }
-.contact{
+#contact{
     margin-top: 100px;
 }
-.contact p{
+#contact p{
     margin: 0;
     font-size: 20px;
 }
